@@ -1,6 +1,6 @@
 # TDD-Unit-Simple-Test
 練習用 Kotlin 寫 TDD Poker
-
+![image](https://github.com/wayne900204/TDD-Unit-Test-Poker/blob/main/TDD.png)
 ## 流程
 1. TDD 是什麼
 2. 所謂用 TDD 的方式運用 Unit Test 寫 Poker Kata，會怎麼做
